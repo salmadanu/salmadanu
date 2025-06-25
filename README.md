@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Salma 🧚🏻‍♂️
+### Check out my [Linkedin](https://www.linkedin.com/in/salma-danuningrat/)
+
+- 🔮 Aspiring Data Scientist
+- 💬 Interests in Natural Language Processing (NLP) and Transformer based models
+- 🎓 Studying Computer Science @ Bogor Institute of Agriculture, Indonesia
+- 🗼 Ex Telkomsel & Telkom intern, Data Analytics & Science
+- 🌱 Currently learning: AI engineering & model deployment
 
 <!--
 **salmadanu/salmadanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
