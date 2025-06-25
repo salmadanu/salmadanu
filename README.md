@@ -1,4 +1,4 @@
-# Hi, I'm Salma 🧚🏻‍♂️<br><br>
+# Hi, I'm Salma 🧚🏻‍♂️
 - 🔮 Aspiring Data Scientist<br>
 - 💬 Interests in Natural Language Processing (NLP) and Transformer based models<br>
 - 🎓 Studying Computer Science @ Bogor Institute of Agriculture, Indonesia<br>
